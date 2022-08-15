@@ -5,4 +5,6 @@
     <string name="categoriesfragment">Categories Fragment</string>
     <string name="fav_fragment">Favorites fragment</string>
     <string name="home_fragment">Home fragment</string>
+    <string name="over_popular_items">Over popular items</string>
+    <string name="what_would_you_like_to_eat">What would you like to eat</string>
 </resources>
