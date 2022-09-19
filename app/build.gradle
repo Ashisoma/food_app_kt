@@ -46,8 +46,8 @@ dependencies {
     implementation "androidx.navigation:navigation-fragment-ktx:2.5.1"
 
     // int ui
-    implementation "com.intui.sqd:sdp-android:1.0.6"
+    implementation 'com.intuit.sdp:sdp-android:1.0.6'
     implementation 'com.intuit.ssp:ssp-android:1.0.6'
 //    animations gif
-    implementation "pi.droidsondoird.gif:android-gif-drawable:1.2.17"
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.17'
 }
